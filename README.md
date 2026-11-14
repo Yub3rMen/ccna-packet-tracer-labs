@@ -21,6 +21,14 @@ Configured VLAN access ports, 802.1Q trunking, and router subinterfaces. Verifie
 
 [View Lab 02](02-vlan-router-on-a-stick.md)
 
+### Lab 03 — Extended Access Control Lists
+Configured named extended ACLs to restrict host access, DNS, and HTTP traffic across routed networks. Verified permitted and denied connections using ping, DNS lookups, and browser testing.
+
+**Skills:** Cisco IOS, extended ACLs, wildcard masks, traffic filtering, troubleshooting.
+
+[View Lab 03](03-extended-acls/README.md)
+
+
 ## About This Portfolio
 
 These projects document guided CCNA practice exercises, including Jeremy's IT Lab. I include configuration verification, troubleshooting observations, and lessons learned.
